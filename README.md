@@ -32,11 +32,11 @@ El análisis se basa en datos históricos de ventas, plataformas, géneros, regi
 --- 
 
 ### 🕹️ Géneros
-- Por volumen de juegos
+- Por volumen de juegos: 
     Acción . Rol . Aventura . Deportes
-- Por ventas totales
+- Por ventas totales: 
     Acción . Shooter . Rol . Deportes
-Los shooters generan altas ventas con menos títulos, lo que indica alta rentabilidad por juego.
+- Los shooters generan altas ventas con menos títulos, lo que indica alta rentabilidad por juego.
 
 --- 
 
